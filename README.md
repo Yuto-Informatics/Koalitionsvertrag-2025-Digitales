@@ -1,4 +1,4 @@
-# Koalitionsvertrag-2025-Digitales
+# Digitale Aspekte des Koalitionsvertrages 2025
 
 ## Quellen  
 Q1: https://de.statista.com/statistik/daten/studie/2274/umfrage/entwicklung-der-wahlbeteiligung-bei-bundestagswahlen-seit-1949/  
